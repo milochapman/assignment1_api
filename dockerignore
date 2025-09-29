@@ -1,0 +1,15 @@
+#ignore the virtual environment and Python cache files
+.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+#ignore Mac system files
+.DS_Store
+
+#ignore git files
+.git
+.gitignore
